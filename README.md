@@ -1,2 +1,2 @@
 # windowsClean
-Este script elimina todos los programas que vienen instalados por defecto con el sistema windows. Store incluida.
+Este script elimina todos los programasnativos Windows que vienen instalados por defecto con el sistema (Store incluida).
